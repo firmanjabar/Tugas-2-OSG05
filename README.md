@@ -1,6 +1,16 @@
 # Flutter Basic ( Tugas 2 - OSG05 )
 Pada modul kali ini saya belajar banyak tentang Widget dan Layouting pada pembuatan aplikasi Flutter [Widget](https://flutter.dev/docs/development/ui/widgets).
 
+>Ketentuan Tugas:
+>1. Menggunakan widget Image, Text, Row, Column, dan Icon dalam satu halaman.
+>2. Gambar boleh berupa Image Assets maupun Image Network.
+>3. Judul, deskripsi, icon, dan sebagainya bertemakan Hari Kemerdekaan Indonesia (17an).
+>4. Edit file README.MD dengan yang sudah di tentukan.
+>5. Upload project tersebut ke dalam Github (https://github.com), kirim tugas berupa link repositori tersebut.
+>
+>Tips tambahan,
+>- Kamu bisa gunakan widget SingleChildScrollView untuk membungkus Column agar halaman dapat di scroll dan tidak terjadi overflowed.
+
 ### Screenshot
 <img src="https://pbs.twimg.com/media/EDjqmTDXYAEGi-w?format=jpg&name=large" width="270" height="480" />
 
