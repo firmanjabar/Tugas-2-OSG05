@@ -1,8 +1,8 @@
 # Flutter Basic ( Tugas 2 - OSG05 )
-Pada modul kali ini saya belajar banyak tentang Widget dan Layouting pada pembuatan aplikasi Flutter. [Widget](https://flutter.dev/docs/development/ui/widgets).
+Pada modul kali ini saya belajar banyak tentang Widget dan Layouting pada pembuatan aplikasi Flutter [Widget](https://flutter.dev/docs/development/ui/widgets).
 
 ### Screenshot
-![Flutter Apps](https://pbs.twimg.com/media/EDjqmTDXYAEGi-w?format=jpg&name=large)
+<img src="https://pbs.twimg.com/media/EDjqmTDXYAEGi-w?format=jpg&name=large" width="270" height="480" />
 
 ### Built With
 - [Flutter](https://flutter.dev)
